@@ -11,4 +11,7 @@ Recopilación de frases para el bronce en la política chilena.
 
 
 ---
-# 2019
+## 2019
+### Octubre
+20: [Sebastián Piñera - Presidente de la República - Crisis social en Chile](https://www.biobiochile.cl/noticias/nacional/chile/2019/10/20/pinera-por-crisis-en-chile-estamos-en-guerra-contra-un-enemigo-poderoso.shtml)
+> Estamos en guerra contra un enemigo poderoso, implacable, que no respeta a nada ni a nadie
